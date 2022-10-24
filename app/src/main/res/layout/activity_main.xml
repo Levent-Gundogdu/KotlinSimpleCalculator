@@ -80,6 +80,7 @@
         android:layout_width="289dp"
         android:layout_height="57dp"
         android:layout_marginBottom="251dp"
+        android:gravity="center"
         android:text="Result: 0"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
